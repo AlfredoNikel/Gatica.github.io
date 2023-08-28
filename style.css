@@ -1,0 +1,77 @@
+
+header nav ul li {
+
+    display: inline-block;
+    padding: 12px;
+    background-color: rgb(95, 173, 30);
+    margin: 1px;
+    border-radius: 0em 1em;
+    border: black groove;
+    
+        
+}
+
+
+header nav ul li:hover{
+
+    background-color: yellow;
+    
+}
+
+a {
+
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    text-decoration: none;
+
+}
+
+header {
+
+    padding: 0;
+    background-color: #884EA0;
+
+
+}
+
+ .header li:hover {
+
+    box-shadow: 2px 5px 13px red;
+ }
+
+ .logo{
+    display: inline-block;
+    border-radius: 4em;    
+    width: 3em;
+    margin-left: 700px;
+    top: 2em;
+    
+    
+ }
+
+.barra-busqueda {
+
+    display: flex;
+    position: absolute;
+    top: 2em;
+    right: 1em;
+    align-items: center;
+    padding: 1em;
+
+}
+
+.barra{
+
+    border-radius: 1em;
+    border: rgb(7, 7, 7) solid;
+    background-color: rgb(255, 255, 255);
+    margin-right: 1em;
+
+
+}
+
+
+    
+
+}
+
