@@ -4,15 +4,14 @@
     background-color: rgb(255, 0, 64);
     margin: 1em;
     border-radius: 2em;
+    margin-bottom: 3em;
 }
 
 header nav a img{
-
-    height: 3.2em;
+    width: 3em;
     border-radius: 2em;
     margin-top: 1em;
     margin-left: 2em;
-    margin-right: 4em;
     
 }
 
@@ -22,7 +21,7 @@ header nav a img{
     padding: 0.5em ;
     font-size: medium;
     margin: 0.5em;
-    margin-left: 1.5em;
+    margin-left: 1.7em;
 }
 
 .lista ul li a{
@@ -43,8 +42,9 @@ header nav a img{
     margin-left: 9em;
     border-radius: 2em;
     border: solid rgb(17, 17, 17);
-    background-color: rgb(0, 0, 0);
-    margin-left: 17em;
+    background-color: rgb(255, 255, 255);
+    margin-left: 6em;
+    
   
 }
 
@@ -67,5 +67,31 @@ header nav a img{
 
     box-shadow: 0 0 50px yellow ;
     background-color: yellow;
+
+}
+
+.pie-pagina{
+    display: flex;
+    justify-content: center;
+    margin-top: 8em;
+    margin-bottom: 2em;
+
+}
+
+.pie-directo{
+
+    margin: 1em;
+
+}
+
+
+.imagen-pie{
+
+    border-radius: 2em;
+    width: 1.5em;
+    height: 1.5em;
+    margin-top: 0.5em;
+    justify-items: auto;
+
 
 }

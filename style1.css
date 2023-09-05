@@ -1,0 +1,26 @@
+
+.articulo{
+
+    margin: 2em;
+    margin-right: 50em;
+
+}
+
+.titulo1{
+
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.imagen1-noticia{
+
+    width: 31em;
+    cursor: pointer;
+
+}
+
+article p{
+
+    font-family: 'Times New Roman', Times, serif;
+}
